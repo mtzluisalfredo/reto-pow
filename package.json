@@ -1,0 +1,15 @@
+{
+  "name": "mifiel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mi_script_mifiel.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.0",
+    "crypto-js": "^4.2.0"
+  }
+}
